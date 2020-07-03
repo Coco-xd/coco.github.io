@@ -1,2 +1,3 @@
 # coco.github.io
-00
+A bcakschool confirm page based on https://flashhhhhhj.github.io/queren.github.io/ .
+Thanks for flashhhhhhj！If offended, delete immediately. 
